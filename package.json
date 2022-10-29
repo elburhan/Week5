@@ -1,0 +1,19 @@
+{
+  "name": "week5",
+  "version": "1.0.0",
+  "description": "Week 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+    
+    
+  },
+  "author": "Burhan",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
